@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="android:Theme.Light.NoTitleBar">
+        <!-- Customize your theme here. -->
+    </style>
+    <style name="SAOTheme" parent="android:Theme.Wallpaper">
+        <!-- windowNoTitle设置为true，去掉标题栏 -->
+        <item name="android:windowNoTitle">true</item>
+    </style>
+</resources>
