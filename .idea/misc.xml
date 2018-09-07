@@ -52,7 +52,4 @@
       <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
     </remote-repository>
   </component>
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
-  </component>
 </project>

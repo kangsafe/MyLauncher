@@ -44,7 +44,6 @@ public class MainActivity extends Activity {
     private List<ResolveInfo> mApps;
     private GridView mGrid;
 
-
     List<AppWidgetProviderInfo> list;
     private static final int APPWIDGET_HOST_ID = 0x200;
 
